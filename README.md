@@ -1,6 +1,7 @@
-# Neuromorphic System Recommender
+# NeuroMRecommender
+## Neuromorphic System Recommender
 
-**Developed by Team Morpheus for the Micron Memory Competition**
+**Developed by Team Morpheus for the Micron Mimory Competition**
 
 ## Project Overview
 
